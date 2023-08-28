@@ -1,0 +1,26 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+
+.button{
+    padding: 20px;
+    border-radius: 9px;
+   
+}
+.row{
+    margin-top: 8px;
+    margin-left: 9px;
+}
+.row input {
+    margin: 1px 25px;
+    border: 2px solid;
+    padding: 14px 22px;
+    border-radius: 9px;
+    background-color: rgb(149,156,130);
+}

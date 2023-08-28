@@ -1,0 +1,30 @@
+.text-center{
+    text-align: center;
+}
+/* .bg-color{
+    background-color: rgb(97,98,104);
+} */
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.row-first{
+    padding: 20px;
+    border-radius: 9px;  
+}
+.container{
+    width: fit-content;
+    border: 2px solid black;
+    background-color:rgb(65,70,81);
+    /* margin: 13px 0px 0px 31px; */
+    padding: 4px 1px 6px 1px
+}
